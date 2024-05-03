@@ -1,7 +1,7 @@
 ### CIS470-Activity-8 (CI/CD pipeline - Part 1)
 
 ### Basics of CI/CD pipeline, Deploying Lambda function
-Running version: [https://ixdha54ip8.execute-api.us-east-2.amazonaws.com/default/sampleFunction](https://ixdha54ip8.execute-api.us-east-2.amazonaws.com/default/sampleFunction)
+Running version: [https://wrscgmsdub.execute-api.us-east-2.amazonaws.com/default/CIS470-Activity-8](https://wrscgmsdub.execute-api.us-east-2.amazonaws.com/default/CIS470-Activity-8)
 
 ### Activity Objectives
 
